@@ -1,12 +1,11 @@
+ public class CalculatorNew {
+// Other methods ommitted for brevity
 
-public class Calculator {
- public int addition(int a, int b) {
- return a + b;
- } 
- public double addition(double a, double b) {
- return a + b;
+ public int multiply(int a, int b) {
+return a * b;
  }
+
+ public double mutiply(double a, double b) {
+  return a * b;
  }
- public double addition(double a, double b) {
-2 return b + a;
-3 }
+}
